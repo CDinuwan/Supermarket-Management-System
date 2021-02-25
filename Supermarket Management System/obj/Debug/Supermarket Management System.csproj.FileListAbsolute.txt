@@ -1,0 +1,5 @@
+C:\Users\Chanuka Dinuwan\Desktop\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.csprojAssemblyReference.cache
+C:\Users\Chanuka Dinuwan\Desktop\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.Form1.resources
+C:\Users\Chanuka Dinuwan\Desktop\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket_Management_System.Properties.Resources.resources
+C:\Users\Chanuka Dinuwan\Desktop\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.csproj.GenerateResource.cache
+C:\Users\Chanuka Dinuwan\Desktop\Supermarket Management System\Supermarket Management System\obj\Debug\Supermarket Management System.csproj.CoreCompileInputs.cache
